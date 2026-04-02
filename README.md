@@ -73,3 +73,15 @@ SAPIFY uses Google Firebase as its backend. Make sure the following Firebase ser
 > The `google-services.json` file is **not included** in this repository for security reasons. You must provide your own.
 
 ---
+
+## Author
+
+**Christos Sapounas**
+
+- GitHub: [@sapounasGH](https://github.com/sapounasGH)
+
+---
+
+## License
+
+This project was developed as a university thesis. All rights reserved unless otherwise stated.
