@@ -84,4 +84,4 @@ SAPIFY uses Google Firebase as its backend. Make sure the following Firebase ser
 
 ## License
 
-This project was developed as a university thesis. All rights reserved unless otherwise stated.
+This project was developed as a university project.
